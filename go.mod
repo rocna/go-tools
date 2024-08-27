@@ -1,3 +1,3 @@
-module github.com/rocna/go_tools
+module github.com/rocna/go-tools
 
 go 1.19
