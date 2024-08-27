@@ -1,7 +1,7 @@
 package example
 
 import (
-	"github.com/rocna/go_tools"
+	"github.com/rocna/go-tools"
 	"testing"
 )
 
